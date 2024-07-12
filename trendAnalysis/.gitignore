@@ -4,3 +4,5 @@ db.sqlite3
 tests/
 test_*.py
 local_settings.py
+
+node_modules/
